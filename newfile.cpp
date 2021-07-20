@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-/* change 
-it
-into
-simple
-plain
-text*/
-=======
 #include <bits/stdc++.h>
 using namespace std;
 int a,b,c,d,e;
@@ -17,4 +9,3 @@ main(){
 
 
 }
->>>>>>> main
